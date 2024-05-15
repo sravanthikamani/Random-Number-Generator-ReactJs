@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  
+}
+.card-container {
+    border-radius:5px;
+    height:200px;
+    width:200px;
+}
+.heading{
+    color:blue;
+
+}
